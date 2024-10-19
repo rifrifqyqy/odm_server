@@ -6,13 +6,6 @@ Selamat datang di repositori server Minecraft! Proyek ini berisi konfigurasi dan
 
 Untuk menjalankan server Minecraft, gunakan perintah berikut di terminal:
 
-### Catatan
-
-- Kamu dapat menyesuaikan bagian-bagian tertentu sesuai dengan kebutuhan spesifik server Minecraft kamu, seperti cara mengonfigurasi file `server.properties` atau informasi tentang mod yang digunakan, jika ada.
-- Pastikan untuk mengganti `server.jar` dengan nama file JAR yang sebenarnya jika berbeda.
-
-Jika ada yang ingin ditambahkan atau diubah, silakan beri tahu!
-
 ```bash
 java -Xmx3700M -Xms3624M -jar server.jar nogui
 
@@ -20,3 +13,10 @@ java -Xmx3700M -Xms3624M -jar server.jar nogui
 
 -Xms3624M: Opsi ini menentukan jumlah memori heap awal yang dialokasikan untuk JVM saat server dimulai. Dalam hal ini, server dimulai dengan 3624 MB (atau 3,6 GB) memori. Menentukan ukuran awal ini membantu mengurangi kebutuhan untuk mengalokasikan memori secara dinamis saat server berjalan, yang dapat meningkatkan kinerja.
 ```
+
+### Catatan
+
+- Kamu dapat menyesuaikan bagian-bagian tertentu sesuai dengan kebutuhan spesifik server Minecraft kamu, seperti cara mengonfigurasi file `server.properties` atau informasi tentang mod yang digunakan, jika ada.
+- Pastikan untuk mengganti `server.jar` dengan nama file JAR yang sebenarnya jika berbeda.
+
+Jika ada yang ingin ditambahkan atau diubah, silakan beri tahu!

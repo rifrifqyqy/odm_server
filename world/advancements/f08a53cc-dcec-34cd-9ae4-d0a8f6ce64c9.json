@@ -369,6 +369,7 @@
       "minecraft:silverfish": "2024-10-16 23:34:18 +0700",
       "minecraft:spider": "2024-10-04 20:50:09 +0700",
       "minecraft:zombie": "2024-10-04 20:48:01 +0700",
+      "minecraft:creeper": "2024-10-21 21:36:35 +0700",
       "minecraft:drowned": "2024-10-12 22:39:41 +0700",
       "minecraft:zombie_villager": "2024-10-10 20:29:05 +0700"
     },
@@ -2785,6 +2786,66 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2024-10-17 01:08:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-10-21 19:41:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-10-21 19:41:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-10-21 20:24:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-10-21 20:41:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-10-21 20:41:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-10-21 20:41:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2024-10-21 20:41:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2024-10-21 20:42:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-22 22:40:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-22 22:40:17 +0700"
     },
     "done": true
   },

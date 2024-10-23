@@ -13,6 +13,8 @@
       "minecraft:forest": "2024-10-03 20:02:33 +0700",
       "minecraft:taiga": "2024-10-03 20:09:33 +0700",
       "minecraft:deep_ocean": "2024-10-06 01:26:23 +0700",
+      "minecraft:lush_caves": "2024-10-20 20:00:47 +0700",
+      "minecraft:deep_cold_ocean": "2024-10-21 20:58:39 +0700",
       "minecraft:frozen_ocean": "2024-10-14 21:49:49 +0700",
       "minecraft:frozen_river": "2024-10-14 21:52:56 +0700",
       "minecraft:windswept_forest": "2024-10-06 01:30:53 +0700",
@@ -21,6 +23,8 @@
       "minecraft:birch_forest": "2024-10-06 01:14:00 +0700",
       "minecraft:old_growth_spruce_taiga": "2024-10-06 01:28:58 +0700",
       "minecraft:snowy_beach": "2024-10-14 22:01:01 +0700",
+      "minecraft:bamboo_jungle": "2024-10-21 21:28:34 +0700",
+      "minecraft:warm_ocean": "2024-10-21 21:35:22 +0700",
       "minecraft:deep_lukewarm_ocean": "2024-10-06 02:02:37 +0700",
       "minecraft:beach": "2024-10-03 20:09:23 +0700",
       "minecraft:dark_forest": "2024-10-06 01:17:59 +0700",
@@ -492,6 +496,7 @@
       "cooked_chicken": "2024-10-04 21:47:32 +0700",
       "potato": "2024-10-04 22:19:17 +0700",
       "cooked_cod": "2024-10-03 21:11:07 +0700",
+      "cod": "2024-10-21 20:00:04 +0700",
       "cooked_salmon": "2024-10-04 21:53:13 +0700"
     },
     "done": false
@@ -3673,6 +3678,175 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-10-16 22:56:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-10-20 18:16:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-10-21 21:13:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-10-21 22:11:22 +0700",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-10-21 22:10:12 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-10-21 21:13:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-10-21 21:01:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-10-21 20:09:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-10-21 19:55:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-10-21 21:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-10-21 21:01:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-10-21 21:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-10-21 21:13:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-10-21 22:10:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-10-21 21:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-10-21 21:51:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-10-21 21:13:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-21 20:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-10-21 20:09:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-10-21 21:28:46 +0700"
     },
     "done": true
   },

@@ -1,86 +1,28 @@
-[10:38:09] [ServerMain/WARN]: resource-pack-id missing, using default of 7c64750a-9b88-3112-9efb-317dee395574
-[10:38:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:38:11] [ServerMain/INFO]: Loaded 1290 recipes
-[10:38:11] [ServerMain/INFO]: Loaded 1399 advancements
-[10:38:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[10:38:12] [Server thread/INFO]: Loading properties
-[10:38:12] [Server thread/INFO]: Default game type: SURVIVAL
-[10:38:12] [Server thread/INFO]: Generating keypair
-[10:38:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:38:12] [Server thread/INFO]: Using default channel type
-[10:38:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:38:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:38:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:38:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:38:12] [Server thread/INFO]: Preparing level "world"
-[10:38:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:38:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:38:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:38:15] [Server thread/INFO]: Time elapsed: 744 ms
-[10:38:15] [Server thread/INFO]: Done (2.819s)! For help, type "help"
-[10:38:35] [Server thread/INFO]: [Not Secure] [Server] say gex
-[10:44:10] [Server thread/INFO]: Liluo22[/172.27.59.238:53018] logged in with entity id 160 at (213.2406655947468, 69.88454435112124, 207.7472354697036)
-[10:44:10] [Server thread/INFO]: Liluo22 joined the game
-[10:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[10:44:32] [Server thread/INFO]: Liluo22 lost connection: Disconnected
-[10:44:32] [Server thread/INFO]: Liluo22 left the game
-[10:45:50] [Server thread/INFO]: Liluo22[/172.27.59.238:54084] logged in with entity id 472 at (238.14564031993044, 72.87887631803818, 208.57159368176704)
-[10:45:50] [Server thread/INFO]: Liluo22 joined the game
-[10:47:02] [Server thread/INFO]: Liluo22 lost connection: Disconnected
-[10:47:02] [Server thread/INFO]: Liluo22 left the game
-[10:48:48] [Server thread/INFO]: sayygexxx[/172.27.59.238:61417] logged in with entity id 1162 at (114.5, 82.0, 115.5)
-[10:48:48] [Server thread/INFO]: sayygexxx joined the game
-[10:49:04] [Server thread/INFO]: [Not Secure] <sayygexxx> say gex
-[10:49:40] [Server thread/INFO]: sayygexxx has completed the challenge [Cover Me in Debris]
-[10:51:39] [Server thread/INFO]: sayygexxx has made the advancement [A Throwaway Joke]
-[10:52:22] [Server thread/INFO]: sayygexxx has made the advancement [Monster Hunter]
-[11:07:19] [Server thread/INFO]: Made sayygexxx a server operator
-[11:07:35] [Server thread/INFO]: [Not Secure] <sayygexxx> locate structure village
-[11:08:24] [Server thread/INFO]: Locating element minecraft:village_plains took 24 ms
-[11:08:38] [Server thread/INFO]: Locating element minecraft:village_taiga took 1553 ms
-[11:09:20] [Server thread/INFO]: guspatur[/172.27.107.1:50182] logged in with entity id 8819 at (303.8134524510765, 64.0, 106.64843140683622)
-[11:09:20] [Server thread/INFO]: guspatur joined the game
-[11:09:25] [Server thread/INFO]: [Not Secure] <sayygexxx> weh
-[11:09:45] [Server thread/INFO]: Made sayygexxx no longer a server operator
-[11:09:52] [Server thread/INFO]: [Not Secure] <guspatur> cara afk auto klik minecraft gimana mint?
-[11:09:59] [Server thread/INFO]: [Not Secure] <sayygexxx> ga tw
-[11:10:23] [Server thread/INFO]: [Not Secure] <guspatur> ada stone generatir miint?
-[11:10:27] [Server thread/INFO]: [Not Secure] <sayygexxx> ora
-[11:10:32] [Server thread/INFO]: [Not Secure] <sayygexxx> mau stone apa lu
-[11:10:45] [Server thread/INFO]: [Not Secure] <guspatur> stone bricks
-[11:11:04] [Server thread/INFO]: Gave 240 [Stone Bricks] to guspatur
-[11:11:32] [Server thread/INFO]: [Not Secure] <guspatur> terimakasih mint
-[11:12:13] [Server thread/INFO]: [Not Secure] <guspatur> yang lain pada kemana mint?
-[11:13:01] [Server thread/INFO]: [Not Secure] <sayygexxx> belom ong
-[11:13:14] [Server thread/INFO]: [Not Secure] <guspatur> mau pindah ke world single player dulu mint, sekalian nunggu yang lain
-[11:13:25] [Server thread/INFO]: [Not Secure] <sayygexxx> okok
-[11:13:36] [Server thread/INFO]: [Not Secure] <guspatur> eh jangan kirim di dm mint
-[11:13:42] [Server thread/INFO]: [Not Secure] <sayygexxx> kenapa tu
-[11:13:53] [Server thread/INFO]: [Not Secure] <guspatur> di wa saja
-[11:13:59] [Server thread/INFO]: [Not Secure] <sayygexxx> okok
-[11:14:01] [Server thread/INFO]: sayygexxx has made the advancement [Acquire Hardware]
-[11:14:09] [Server thread/INFO]: [Not Secure] <guspatur> tarik pesan mint
-[11:14:13] [Server thread/INFO]: [Not Secure] <sayygexxx> bentar zombi
-[11:14:38] [Server thread/INFO]: [Not Secure] <guspatur> gambar nya juga mint
-[11:14:51] [Server thread/INFO]: [Not Secure] <guspatur> oke terimakasih atmint
-[11:14:56] [Server thread/INFO]: Invalid name or UUID
-[11:14:56] [Server thread/INFO]: give  sayygexxx anvil<--[HERE]
-[11:15:01] [Server thread/INFO]: Gave 1 [Anvil] to sayygexxx
-[11:15:13] [Server thread/INFO]: guspatur lost connection: Disconnected
-[11:15:13] [Server thread/INFO]: guspatur left the game
-[11:21:03] [Server thread/INFO]: BadenPowell[/172.27.102.108:50340] logged in with entity id 12071 at (150.85514708784922, 63.0, 92.16799460720671)
-[11:21:03] [Server thread/INFO]: BadenPowell joined the game
-[11:21:16] [Server thread/INFO]: [Not Secure] <BadenPowell> saygex siapa?
-[11:25:58] [Server thread/INFO]: [Not Secure] <sayygexxx> tebak
-[11:26:16] [Server thread/INFO]: [Not Secure] <BadenPowell> eko?
-[11:28:02] [Server thread/INFO]: BadenPowell lost connection: Disconnected
-[11:28:02] [Server thread/INFO]: BadenPowell left the game
-[11:33:09] [Server thread/INFO]: sayygexxx was killed
-[11:33:09] [Server thread/INFO]: Killed sayygexxx
-[11:33:15] [Server thread/WARN]: sayygexxx moved too quickly! 84.25829373289463,22.0,1620.9288620498298
-[11:33:15] [Server thread/WARN]: sayygexxx moved too quickly! 84.25829373289463,22.0,1620.9288620498298
-[11:36:31] [Server thread/INFO]: sayygexxx has made the advancement [The Parrots and the Bats]
-[11:40:01] [Server thread/INFO]: sayygexxx has made the advancement [A Seedy Place]
-[11:53:47] [Server thread/INFO]: sayygexxx lost connection: Disconnected
-[11:53:47] [Server thread/INFO]: sayygexxx left the game
-[14:29:09] [Server thread/INFO]: Stopping server
+[18:47:30] [ServerMain/WARN]: resource-pack-id missing, using default of 7c64750a-9b88-3112-9efb-317dee395574
+[18:47:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:47:33] [ServerMain/INFO]: Loaded 1290 recipes
+[18:47:33] [ServerMain/INFO]: Loaded 1399 advancements
+[18:47:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:47:34] [Server thread/INFO]: Loading properties
+[18:47:34] [Server thread/INFO]: Default game type: SURVIVAL
+[18:47:34] [Server thread/INFO]: Generating keypair
+[18:47:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:47:35] [Server thread/INFO]: Using default channel type
+[18:47:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:47:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:47:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:47:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:47:35] [Server thread/INFO]: Preparing level "world"
+[18:47:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:47:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:47:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:47:38] [Server thread/INFO]: Time elapsed: 759 ms
+[18:47:38] [Server thread/INFO]: Done (2.991s)! For help, type "help"
+[21:21:22] [Server thread/INFO]: William[/172.27.241.246:57636] logged in with entity id 165 at (157.353352623682, 68.0, 216.85516920000202)
+[21:21:22] [Server thread/INFO]: William joined the game
+[21:48:32] [Server thread/INFO]: William lost connection: Disconnected
+[21:48:32] [Server thread/INFO]: William left the game
+[21:50:31] [Server thread/INFO]: William[/172.27.241.246:57798] logged in with entity id 9628 at (100.15054214929245, 53.0, 82.98144992445964)
+[21:50:31] [Server thread/INFO]: William joined the game
+[22:10:50] [Server thread/INFO]: William lost connection: Disconnected
+[22:10:50] [Server thread/INFO]: William left the game
